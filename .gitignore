@@ -132,5 +132,5 @@ dmypy.json
 .vscode/
 
 
-indented_db.json
-db.json
+/indented_db.json
+/db.json
