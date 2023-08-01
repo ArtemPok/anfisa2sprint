@@ -131,5 +131,6 @@ dmypy.json
 #vscode
 .vscode/
 
-.sqlite3
-.sqlite
+
+indented_db.json
+db.json
