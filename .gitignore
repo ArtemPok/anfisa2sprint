@@ -130,7 +130,3 @@ dmypy.json
 
 #vscode
 .vscode/
-
-
-/indented_db.json
-/db.json
